@@ -1,0 +1,27 @@
+.navbar-default .navbar-brand {
+    color: #0000FF!important;
+  font-size: 25px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #7FFFD4!important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: red!important;
+}
+
+.navbar-default{
+  background-color: red!important;
+}
+
+.navbar-default ul li a
+{
+  color: white!important;
+  font-size: 17px;
+}
+
+.navbar-default ul li a:hover
+{
+ background-color: #008000!important;
+}
